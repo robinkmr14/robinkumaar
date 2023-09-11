@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkumaar&label=Profile%20views&color=0e75b6&style=flat" alt="robinkumaar" /> </p>
 
-- 🌱 I’m currently learning **C, C++, JAVA, HTML, Data Structure**
+- 🌱 I’m currently learning **C, C++, JAVA, Data Structure**, HTML, CSS, JAVASCRIPT
 
 - 👨‍💻 All of my projects are available at [https://github.com/robinkumaar](https://github.com/robinkumaar)
 
-- 💬 Ask me about **C, C++, JAVA, Data Structure**
+- 💬 Ask me about **C, C++, JAVA, Data Structure**, HTML, CSS, JAVASCRIPT
 
 - 📫 How to reach me **robinnimcet@gmail.com**
 
